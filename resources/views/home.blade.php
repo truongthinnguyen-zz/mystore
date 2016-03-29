@@ -17,7 +17,7 @@
 
                 <div class="panel-body">
                     <ul class="nav nav-pills nav-stacked category-menu">
-                        <li>
+                        <li class="active">
                             <a href="shop-category.html">Men <span class="badge pull-right">42</span></a>
                             <ul>
                                 <li><a href="shop-category.html">T-shirts</a>
@@ -30,7 +30,7 @@
                                 </li>
                             </ul>
                         </li>
-                        <li class="active">
+                        <li>
                             <a href="shop-category.html">Ladies  <span class="badge pull-right">123</span></a>
                             <ul>
                                 <li><a href="shop-category.html">T-shirts</a>
