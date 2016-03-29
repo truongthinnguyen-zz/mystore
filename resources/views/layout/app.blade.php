@@ -74,20 +74,20 @@
 
                         <ul class="nav navbar-nav navbar-right">
                             <li class="dropdown active">
-                                <a href="javascript: void(0)" class="dropdown-toggle" data-toggle="dropdown">Home <b class="caret"></b></a>
+                                <a href="/" >Home <b class="caret"></b></a>
 
                             </li>
                             <li class="dropdown use-yamm yamm-fw">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sign Up</a>
+                                <a href="/register">Register</a>
 
                             </li>
                             <li class="dropdown use-yamm yamm-fw">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sign In</a>
+                                <a href="/login">Log In</a>
 
                             </li>
 
                             <li class="dropdown">
-                                <a href="javascript: void(0)" class="dropdown-toggle" data-toggle="dropdown">Contact </a>
+                                <a href="/contact">Contact </a>
 
                             </li>
                         </ul>
